@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/*
 int main()
 {
 	//Userinput, name to char array
@@ -42,3 +43,4 @@ int main()
 	printf("Height: %f%\n", height);
 	return 0;
 }
+*/

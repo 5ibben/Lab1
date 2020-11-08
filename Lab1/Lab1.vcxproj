@@ -143,6 +143,7 @@
     <ClCompile Include="Task3HelloWorlds.cpp" />
     <ClCompile Include="Task4PersonRecord.cpp" />
     <ClCompile Include="Task5PersonRecord.cpp" />
+    <ClCompile Include="Task6PrimeNumbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
