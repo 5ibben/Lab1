@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#pragma warning(disable : 4996)
 int upperCasePyramid(int n);
 int numberPyramid(int n);
 
