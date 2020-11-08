@@ -30,5 +30,8 @@
     <ClCompile Include="Task7Bounce.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Task8HalfPyramid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
