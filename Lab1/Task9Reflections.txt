@@ -1,0 +1,61 @@
+
+---------What did you learn? What did you know already?---------
+
+I recoqnized alot of the syntax from previous experience with C#
+most of the functions however where new to me.
+I learned a bit about I/O streams after having some issues with lingering characters.
+I learned a bit about working with a 'solution' in visual studio, and GitHub, both of which I feel was valuable.
+I also learned how to turn of the "decrepit error" in VS, which I don´t know if it´s really a good thing.
+
+    
+    
+---------What was difficult in the lab? How did you overcome it?---------
+
+My first troubles started, just like with IDLE in the previous course, with the actual IDE itself.
+It seemed like visual studio were installed without any C++ functionality, this was a hastle to figure out, but sorted eventually.
+
+I had some problems at Task5 Person Record, using scanf(), and printf(). 
+this was where I first encounter the aforementioned problems with lingering characters in the inputstream, newline specifically.
+
+I also had a fair bit of problems doing task 8: Half pyramids, mainly due to having a bad brain.
+
+
+What I always find the hardest are the instructions, more specifically how to interpret them.
+
+For example somewhere it was implied I should be using a bool, when in reality it wasn´t fitting for the program I was writing, 
+so I had to write a crappier program or shittier code then I normally would.
+
+another example: Task 8, 
+    should the pyramids be printed in unison? 
+    is it meant to be just one input, or one for each? 
+    are they supposed to be the same function?
+if you're extremely anal, the examples doesn´t even match the instructions.
+But most of all I just wanted to write 'anal' somewhere, and now I´ve done it twice!.
+
+
+---------How can the lab be improved?---------
+
+I would prefer either more specific instructions OR more general instructions, if that makes sense.
+more specific instructions so you know exactly what to do and in what way you are expected to do it.
+OR
+more general instructions so you know what the intention of the program is, but it´s freely up to you to decide how to get there.
+
+I do understand however, that some elements of the lab must be specified, since we´re supposed to be learning them.
+
+This is not so much the labs but the lectures, why are we instructed to use decrepit stuff?
+
+
+---------Additionally, give an estimate how many hours you spent on this lab---------
+
+I would guess 6~7 hours, which feels ridiculous considering what the programs actually do, but I guess the time is in the things you don´t see.
+40% spent googling what the hell is wrong with VS
+60% spent googling what the hell is wrong with code
+
+
+
+---------Other thoughts---------
+
+I might seem whiny, but I wouldn´t say anything if not asked to.
+other than that I am excited to learn more.
+
+//Sebastian

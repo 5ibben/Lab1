@@ -147,6 +147,9 @@
     <ClCompile Include="Task7Bounce.cpp" />
     <ClCompile Include="Task8HalfPyramid.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="Task9Reflections.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
