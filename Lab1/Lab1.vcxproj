@@ -144,6 +144,7 @@
     <ClCompile Include="Task4PersonRecord.cpp" />
     <ClCompile Include="Task5PersonRecord.cpp" />
     <ClCompile Include="Task6PrimeNumbers.cpp" />
+    <ClCompile Include="Task7Bounce.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

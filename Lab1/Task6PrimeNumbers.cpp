@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/*
 int main()
 {
 	//This program displays the n first prime numbers, where n is input from the user.
@@ -49,5 +50,6 @@ int main()
 	}
 
 	system("pause");
-
+	return 0;
 }
+*/
