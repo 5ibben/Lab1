@@ -18,5 +18,11 @@
     <ClCompile Include="Task3HelloWorlds.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Task4PersonRecord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Task5PersonRecord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
